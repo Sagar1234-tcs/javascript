@@ -1,0 +1,8 @@
+{
+    "debug.chrome.useV3": true,
+    "files.autoSave": "onFocusChange",
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "html.customData": [
+        "Sagar"
+    ]
+}
